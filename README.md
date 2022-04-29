@@ -1,7 +1,3 @@
-# Practica-bid-data-processing
-
-Lo he subido también en word (con capturas) 
-
 STREAMING PART: 
  
 Leemos los datos del topic de Kafka.
